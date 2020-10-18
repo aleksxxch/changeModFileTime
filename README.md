@@ -9,4 +9,4 @@ use `pip install <module name>`
 ## usage
 Script takes repo path as only argument, make sure to type it in double quotes
 
-`python change_nod_time.py "c:\Path\to\your\repo"`
+`python change_mod_time.py "c:\Path\to\your\repo"`
